@@ -1,0 +1,127 @@
+body {
+
+  margin: 0;
+  text-align: center;
+  font-family: "Candara", verdana, sans-serif;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  	color:  black;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-family: 'Fondamento', cursive;
+  font-size:5.60rem;
+}
+.hey{
+  margin-top: 80px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:4.00rem;
+  color:  #035aa6;
+  font-weight: normal;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h3 {
+  font-size: 2.00rem;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #1b6ca8;
+}
+p{
+  font-size:1.40rem;
+      line-height: 2;
+}
+hr{
+border: dotted black 6px;
+border-bottom: none;
+width :6%;
+margin: 100px auto;
+}
+a{
+  color: #11999E;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.topcontainer {
+  position: relative;
+}
+.middle-container{
+
+}
+.bottom-container{
+  background-color:#035aa6;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+ }
+  .skill-row1 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:right;
+}
+.webdev{
+  width:30%;
+  float: left;
+  margin-right: 30px;
+}
+.gaming{
+width:30%;
+float:right;
+margin-left: 30px;
+}
+.cycle{
+width:30%;
+float: right;
+margin-left: 30px;
+}
+.piano{
+width:30%;
+float: left;
+margin-right: 30px;
+}
+.Bhargav {
+  text-decoration: underline;
+}
+.insta{
+  margin: 0 0 0 0;
+}
+.contact-msg{
+  width: 40%;
+  margin:40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-bottom: 0;
+}
+.myButton {
+ box-shadow: 0 1px 0  #f0f7fa;
+ background:linear-gradient(to bottom, #00b0eb 5%, #019ad2 100%);
+ background-color:#00b0eb;
+ border-radius:4px;
+ border:1px solid #057fd0;
+ display:inline-block;
+ cursor:pointer;
+ color:#ffffff;
+ font-family:Verdana;
+ font-size:15px;
+ font-weight:bold;
+ padding:6px 24px;
+ text-decoration:none;
+ text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+ background:linear-gradient(to bottom, #019ad2 5%,#9bdeac 100%);
+ background-color:#9bdeac;
+}
+.myButton:active {
+ position:relative;
+ top:1px;
+}
